@@ -3,16 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://seul.dev/posts/malware/configure-linux-kernel-debugging/</loc>
+    <lastmod>2020-09-27T14:30:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seul.dev/posts/</loc>
+    <lastmod>2020-09-27T14:30:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seul.dev/</loc>
+    <lastmod>2020-09-27T14:30:41+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://seul.dev/about/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://seul.dev/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://seul.dev/</loc>
   </url>
   
   <url>
