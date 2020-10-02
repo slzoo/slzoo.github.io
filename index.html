@@ -68,16 +68,21 @@
     <h2 class="c-title c-article__title"><a href="https://seul.dev/posts/malware/configure-linux-kernel-debugging/">Configure Linux Kernel Debugging</a></h2>
     <p class="c-article__meta">
       Posted on
-<time datetime="2020-09-27T14:30:41&#43;09:00">
-  Sep 27, 2020
+<time datetime="0001-01-01T00:00:00Z">
+  Jan 1, 0001
 </time>
 
     </p>
   </header>
   <div class="c-article__summary">
-     리눅스 커널 디버깅을 위한 환경설정
-  Goal Environment   debugger debuggee  
+    리눅스 커널 디버깅을 위한 환경설정 Environment  debugger: macOS Catalina 10.15.5 debuggee(on VMware Fusion): CentOS 6.5 64bit  ​	Host(macOS) -&gt; Guest(Cent OS) 환경으로 커널 레벨 디버깅 환경을 구성한다.
+​	참고한 사이트들에서는 Ubuntu 환경으로 커널 디버깅 환경설정이 설명되어 있어 참고하기 어렵다.
+​	따라서, Redhat 계열의 게스트 OS를 Step by Step으로 설정하는 것을 본 포스팅의 의의로 한다.
+   커널 소스코드 다운로드
+# kernel 소스코드 다운로드 $ yum install &#34;kernel-devel-$(uname -r)&#34;   커널 vmlinux 생성
   </div>
+  
+  <a href="https://seul.dev/posts/malware/configure-linux-kernel-debugging/" class="c-article__btn p-list-article__btn">Read more</a>
   
 </article>
 
