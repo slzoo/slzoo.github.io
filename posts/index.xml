@@ -14,7 +14,7 @@
       <pubDate>Sun, 27 Sep 2020 14:30:41 +0900</pubDate>
       
       <guid>https://seul.dev/posts/malware/configure-linux-kernel-debugging/</guid>
-      <description> kernel
+      <description> 리눅스 커널 디버깅을 위한 환경설정
   Goal Environment   debugger debuggee  </description>
     </item>
     
