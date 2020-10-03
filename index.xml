@@ -22,14 +22,19 @@
     </item>
     
     <item>
-      <title>About Hugo</title>
+      <title>About SEUL</title>
       <link>https://seul.dev/about/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://seul.dev/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+      <description>SEUL: Seulgi Lee (이슬기)
+​
+  Affiliations
+ Deputy General Researcher, Korea Internet &amp;amp; Security Agency, 2012.10 ~ current    Education
+  M.S. student in Computer Science, Korea University, Rep. of Korea, 2019 ~ current
+  B.S. in Computer Science, Chungnam National University, Rep. of Korea, 2013
+    Projects
+  Development of Cyber Threat Intelligence(CTI) analysis and information sharing technology for national cyber incident response (국가 차원의 침해사고 대응을 위한 사이버 위협 인텔리전스 분석(CTI) 및 정보 공유 기술 개발), 2017.</description>
     </item>
     
   </channel>
